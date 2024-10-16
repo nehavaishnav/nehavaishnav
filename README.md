@@ -19,8 +19,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=nehavaishnav&theme=radical)](https://git.io/streak-stats)
 
 ## 🗓️ Recent Contributions
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=nehavaishnav&theme=rogue)
-
+[![Neha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nehavaishnav)](https://github.com/nehavaishnav/github-readme-activity-graph)
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nehavaishnav1/)
