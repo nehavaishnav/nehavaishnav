@@ -15,9 +15,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nehavaishnav&layout=compact&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nehavaishnav&layout=compact&theme=radical)
 
-## 📈 Contribution Stats
-- **Total Repositories:** ![Total Repos](https://img.shields.io/badge/Repos-25-blue)
-- **Total Contributions:** ![Total Contributions](https://img.shields.io/badge/Contributions-1000+-brightgreen)
 
 ## 🛠️ Tech Stack
 ### Languages:
