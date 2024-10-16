@@ -15,6 +15,25 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nehavaishnav&layout=compact&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nehavaishnav&layout=compact&theme=radical)
 
+## 📈 Contribution Stats
+- **Total Repositories:** ![Total Repos](https://img.shields.io/badge/Repos-25-blue)
+- **Total Contributions:** ![Total Contributions](https://img.shields.io/badge/Contributions-1000+-brightgreen)
+
+## 🛠️ Tech Stack
+### Languages:
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+### Frameworks:
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+
+### Databases:
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+
+
 ## 🔥 Streak Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=nehavaishnav&theme=radical)](https://git.io/streak-stats)
 
