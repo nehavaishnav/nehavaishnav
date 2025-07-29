@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 ## 👋 Hi, I'm Neha Vaishnav!
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nehavaishnav&label=Profile%20views&color=0e75b6&style=flat" alt="nehavaishnav" /> </p>
 
 - 🔭 I’m currently working on building AI-driven applications.
 - 🌱 I’m learning JavaScript, Python, and Data Science.
